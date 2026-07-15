@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Zachary Humphrey's CV
+title: Zachary Humphreys's CV
 ---
 # Zachary Humphreys
 Game Developer, Software Development Student.
