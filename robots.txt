@@ -1,1 +1,1 @@
-Sitemap: https://Zaphrey.github.io/data/sitemap.xml
+Sitemap: https://Zaphrey.github.io/datascience_portfolio/sitemap.xml
