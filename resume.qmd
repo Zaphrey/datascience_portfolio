@@ -6,8 +6,8 @@ title: Zachary Humphery's CV
 Game Developer, Software Development Student.
 
 <div id="webaddress">
-<a href="zachary.humphreys@gmail.com">zachary.humphreys@gmail.com</a>
-| <a href="https://github.com/zaphrey.github.io/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="mailto:zachary.humphreys@gmail.com">zachary.humphreys@gmail.com</a>
+| <a href="https://github.com/zaphrey.github.io/datascience_portfolio/raw/gh-pages/resume.pdf">Download PDF</a>
 </div>
 
 
@@ -19,6 +19,16 @@ Studying Software Development at BYU-Idaho.
 
 Programming, web development, game development.
 
+#### Languages
+Lua, Luau, C#, C++, Python, JavaScript, 
+TypeScript, Sqlite, MySQL, HTML, CSS.
+
+#### Technologies
+Angular, Avalonia, Blazor, Express, 
+Polars, Mongoose, .NET, NoSQL.
+
+#### Certificates
+Web Development, Full-stack Web Development.
 
 ### Research interests
 
@@ -27,18 +37,23 @@ Game development, computational geometry, machine learning, procedural generatio
 
 ## Education
 
-
-`2009-2021`
-__Homeschooled__
-
-`2021-2022`
-__Southern Crescent Technical College for Adult Ed Classes__
-
 `2022-now`
-__Brigham Young University - Idaho
+__Brigham Young University - Idaho__
 
+Expected graduation date: Fall 2026
 
 ## Occupation
 
 `2025-now`
 Engine Developer at Crazyblox Games.
+
+- Created a dedicated server for 100-200 daily players to anonymously upload data to.
+- Developed new features for long-term monetization practice, increasing profits by 20%.
+- Built a new character controller providing more responsive feedback to players.
+
+
+## Projects
+
+- [E-Waste Analytica](https://github.com/Zaphrey/E-Waste-Analytica) - First data science project for predicting e-waste by country.
+- [Metromata](https://github.com/Zaphrey/Metromata) - Realtime GIS mapping system for public buses under the Metropolitan Atlanta Rapid Transit Authority.
+- [Netport](https://github.com/Zaphrey/Netport) - Basic file sharing server and peer-to-peer application.
