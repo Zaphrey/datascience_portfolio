@@ -448,27 +448,34 @@
     "href": "resume.html",
     "title": "Zachary Humphery’s CV",
     "section": "",
-    "text": "Game Developer, Software Development Student.\n\nzachary.humphreys@gmail.com | Download PDF\n\n\n\nStudying Software Development at BYU-Idaho.\n\n\nProgramming, web development, game development.\n\n\n\nGame development, computational geometry, machine learning, procedural generation, and physics simulations.\n\n\n\n\n2009-2021 Homeschooled\n2021-2022 Southern Crescent Technical College for Adult Ed Classes\n2022-now __Brigham Young University - Idaho\n\n\n\n2025-now Engine Developer at Crazyblox Games."
+    "text": "Game Developer, Software Development Student.\n\nzachary.humphreys@gmail.com | Download PDF\n\n\n\nStudying Software Development at BYU-Idaho.\n\n\nProgramming, web development, game development.\n\n\nLua, Luau, C#, C++, Python, JavaScript, TypeScript, Sqlite, MySQL, HTML, CSS.\n\n\n\nAngular, Avalonia, Blazor, Express, Polars, Mongoose, .NET, NoSQL.\n\n\n\nWeb Development, Full-stack Web Development.\n\n\n\n\nGame development, computational geometry, machine learning, procedural generation, and physics simulations.\n\n\n\n\n2022-now Brigham Young University - Idaho\nExpected graduation date: Fall 2026\n\n\n\n2025-now Engine Developer at Crazyblox Games.\n\nCreated a dedicated server for 100-200 daily players to anonymously upload data to.\nDeveloped new features for long-term monetization practice, increasing profits by 20%.\nBuilt a new character controller providing more responsive feedback to players.\n\n\n\n\n\nE-Waste Analytica - First data science project for predicting e-waste by country.\nMetromata - Realtime GIS mapping system for public buses under the Metropolitan Atlanta Rapid Transit Authority.\nNetport - Basic file sharing server and peer-to-peer application."
   },
   {
     "objectID": "resume.html#currently",
     "href": "resume.html#currently",
     "title": "Zachary Humphery’s CV",
     "section": "",
-    "text": "Studying Software Development at BYU-Idaho.\n\n\nProgramming, web development, game development.\n\n\n\nGame development, computational geometry, machine learning, procedural generation, and physics simulations."
+    "text": "Studying Software Development at BYU-Idaho.\n\n\nProgramming, web development, game development.\n\n\nLua, Luau, C#, C++, Python, JavaScript, TypeScript, Sqlite, MySQL, HTML, CSS.\n\n\n\nAngular, Avalonia, Blazor, Express, Polars, Mongoose, .NET, NoSQL.\n\n\n\nWeb Development, Full-stack Web Development.\n\n\n\n\nGame development, computational geometry, machine learning, procedural generation, and physics simulations."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Zachary Humphery’s CV",
     "section": "",
-    "text": "2009-2021 Homeschooled\n2021-2022 Southern Crescent Technical College for Adult Ed Classes\n2022-now __Brigham Young University - Idaho"
+    "text": "2022-now Brigham Young University - Idaho\nExpected graduation date: Fall 2026"
   },
   {
     "objectID": "resume.html#occupation",
     "href": "resume.html#occupation",
     "title": "Zachary Humphery’s CV",
     "section": "",
-    "text": "2025-now Engine Developer at Crazyblox Games."
+    "text": "2025-now Engine Developer at Crazyblox Games.\n\nCreated a dedicated server for 100-200 daily players to anonymously upload data to.\nDeveloped new features for long-term monetization practice, increasing profits by 20%.\nBuilt a new character controller providing more responsive feedback to players."
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Zachary Humphery’s CV",
+    "section": "",
+    "text": "E-Waste Analytica - First data science project for predicting e-waste by country.\nMetromata - Realtime GIS mapping system for public buses under the Metropolitan Atlanta Rapid Transit Authority.\nNetport - Basic file sharing server and peer-to-peer application."
   }
 ]
